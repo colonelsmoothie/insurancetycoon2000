@@ -10,7 +10,7 @@ Welcome to the Insurance Tycoon 2000 development blog. Insurance Tycoon is an op
 This project is a work-in-progress, and I'm learning as I go when it comes to most of the project features, so this is the right place to go if you want a detailed account of how I am developing this simulator.
 
 ### Project Homepage
-[Insurance Tycoon 2000](https://github.com/colonelsmoothie/insurancetycoon2000/issues)
+[Insurance Tycoon 2000](https://www.insurancetycoon2000.com)
 
 
 
