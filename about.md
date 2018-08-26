@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to the Insurance Tycoon 2000 development blog. Insurance Tycoon is an open source, browser-based insurance management simulator. You are the CEO of an insurance company, and the goal is to gain as much market share as possible, while maintaining profitability and solvency.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This project is a work-in-progress, and I'm learning as I go when it comes to most of the project features, so this is the right place to go if you want a detailed account of how I am developing this simulator.
+
+### Project Homepage
+[Insurance Tycoon 2000](https://github.com/colonelsmoothie/insurancetycoon2000/issues)
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+My email address is below, but I hardly ever check it. Therefore, the best place to reach me is on the [issues](https://github.com/colonelsmoothie/insurancetycoon2000/issues) page of this GitHub repository.
+
+[colonelsmoothie@gmail.com](mailto:colonelsmoothie@gmail.com.com)
